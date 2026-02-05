@@ -1,7 +1,10 @@
 ## Hi 👋 Welcome to my GitHub profile 😄
 
+<h3>
 I'm Juliano Kaumo, an Information Systems student and Data & Machine Learning intern, 
 focused on data quality and analytical solutions 📊🤖 🇧🇷
+</h3>
+
 
 ---
 
